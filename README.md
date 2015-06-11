@@ -1,2 +1,4 @@
-# hello-world
-Simple Hello World Repo
+
+A Hello World GitHub project.
+
+There's nothing special about it...
